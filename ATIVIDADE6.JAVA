@@ -10,11 +10,10 @@ public class Main {
         
         System.out.println("Descricao do Produto: " + descricaoProduto);
         
-      
-        
         System.out.println("Dados do Produto:");
         System.out.println("Numero: " + numeroProduto);
         System.out.println("Preco: $" + precoProduto);
         System.out.println("Descricao: " + descricaoProduto);
+
     }
 }
